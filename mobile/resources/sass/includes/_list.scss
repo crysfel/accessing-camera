@@ -1,0 +1,13 @@
+.user-list{
+    .x-list-item{
+        overflow:auto;
+        img{
+            float:left;
+            width:65px;
+            margin-right:10px;
+        }
+        small{
+            color:#666;
+        }
+    }
+}
